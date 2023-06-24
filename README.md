@@ -1,5 +1,5 @@
 # Simple-Buffer
-Simple buffer using a non built-in semaphore
+## Simple buffer using a non built-in semaphore
 
 # Project Description
 - Given N numbers and one file, our system simulates a real-life of
